@@ -158,4 +158,12 @@ movie-review-app/
 - Data tidak ditemukan
 - Tampil pesan sukses/gagal
 
----
+## Screenshot
+![image](https://github.com/user-attachments/assets/729621cf-53cc-49a1-84d2-46ea64185c4f)
+![image](https://github.com/user-attachments/assets/cccb6aac-8afb-4204-a8f9-be90d393dd1f)
+![image](https://github.com/user-attachments/assets/4baf3858-edd0-4dd8-a031-9d1ff52c99b4)
+![image](https://github.com/user-attachments/assets/d85ff8fc-da16-46aa-abf8-0a15a82538b1)
+![image](https://github.com/user-attachments/assets/334c194d-fd91-4b60-9cf9-7a87b04b3e5a)
+![image](https://github.com/user-attachments/assets/ab9aa986-b412-41b6-8bf6-870eb82ee17f)
+![image](https://github.com/user-attachments/assets/edcd5cad-0a69-458c-ac19-2c71d522b56b)
+![image](https://github.com/user-attachments/assets/7a9ad566-16bc-4aa5-91f2-2bc59dad18a6)
