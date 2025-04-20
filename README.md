@@ -10,29 +10,29 @@ Aplikasi web sederhana untuk mengelola review film, dibuat menggunakan PHP dan M
 
 ## Struktur Proyek
 
-movie-review-app/
-├── config/
-│ └── db.php # Konfigurasi database
-├── view/
-│ ├── user/ # Tampilan manajemen user
-│ │ ├── index.php # Daftar user
-│ │ ├── add.php # Form tambah user
-│ │ ├── edit.php # Form edit user
-│ │ └── delete.php # Handler hapus user
-│ ├── movie/ # Tampilan manajemen movie
-│ │ ├── index.php # Daftar movie
-│ │ ├── add.php # Form tambah movie
-│ │ ├── edit.php # Form edit movie
-│ │ └── delete.php # Handler hapus movie
-│ └── review/ # Tampilan manajemen review
-│ ├── index.php # Daftar review
-│ ├── add.php # Form tambah review
-│ ├── edit.php # Form edit review
-│ └── delete.php # Handler hapus review
-├── database/
-│ └── db_moviereview.sql # Skema database
-├── index.php # File utama aplikasi
-└── README.md # Dokumentasi
+- movie-review-app/
+- ├── config/
+- │ └── db.php # Konfigurasi database
+- ├── view/
+- │ ├── user/ # Tampilan manajemen user
+- │ │ ├── index.php # Daftar user
+- │ │ ├── add.php # Form tambah user
+- │ │ ├── edit.php # Form edit user
+- │ │ └── delete.php # Handler hapus user
+- │ ├── movie/ # Tampilan manajemen movie
+- │ │ ├── index.php # Daftar movie
+- │ │ ├── add.php # Form tambah movie
+- │ │ ├── edit.php # Form edit movie
+- │ │ └── delete.php # Handler hapus movie
+- │ └── review/ # Tampilan manajemen review
+- │ ├── index.php # Daftar review
+- │ ├── add.php # Form tambah review
+- │ ├── edit.php # Form edit review
+- │ └── delete.php # Handler hapus review
+- ├── database/
+- │ └── db_moviereview.sql # Skema database
+- ├── index.php # File utama aplikasi
+- └── README.md # Dokumentasi
 
 ## Desain Database
 
